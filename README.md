@@ -1,6 +1,6 @@
-# SecureChat – Encrypted Client–Server Messaging System
+# FortiChat – Encrypted Client–Server Messaging System
 
-SecureChat is a **terminal-based encrypted communication system** written in **C++**, designed to simulate secure communication between a client and server over TCP.
+FortiChat is a **terminal-based encrypted communication system** written in **C++**, designed to simulate secure communication between a client and server over TCP.
 It demonstrates key concepts of:
 
 * **Socket programming** (Berkeley Sockets)
@@ -17,12 +17,14 @@ This project allows users to establish an encrypted session with a central serve
 
 # 📌 Project Structure
 
-SecureChat/
+```
+FortiChat/
 │── src/
 │   ├── server.cpp
 │   └── client.cpp
 │── README.md
 │── .gitignore
+```
 
 ---
 
@@ -168,7 +170,7 @@ This updated documentation reflects the current advanced moderation system, IP b
 
 # 🔐 Hashing & Encryption
 
-SecureChat uses three core cryptographic mechanisms:
+FortiChat uses three core cryptographic mechanisms:
 
 ## 🔸 1. **SHA-256 Hashing**
 
