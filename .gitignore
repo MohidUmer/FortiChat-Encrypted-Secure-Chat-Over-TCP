@@ -1,0 +1,44 @@
+# Compiled object files
+*.o
+*.obj
+
+# Compiled binaries
+server
+client
+
+# Backup files
+*~
+*.bak
+
+# Logs
+*.log
+logs/
+securechat_log.txt
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Build directories (future-proof)
+build/
+bin/
+dist/
+
+# OpenSSL cache & temp files
+*.pem
+*.key
+*.crt
+*.csr
+*.enc
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# CMake / Make files (if added later)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
