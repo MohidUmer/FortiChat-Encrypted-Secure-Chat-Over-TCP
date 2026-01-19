@@ -1,4 +1,4 @@
-# FortiChat – Encrypted Client–Server Messaging System 🔐
+# FortiChat – Encrypted Client–Server Messaging System
 
 ---
 
