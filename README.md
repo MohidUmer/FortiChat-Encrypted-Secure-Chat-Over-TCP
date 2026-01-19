@@ -396,9 +396,49 @@ Client uses:
 
 ---
 
-# 📜 License
-This project is created as an academic operating-system assignment. 
-Not permitted to be used for any type of academic cheating or plagiarism.
-For Educational Purpose Only.
+---
 
-Built By: `Mohid Umer`, Email: `mohidumer112@gmail.com`
+## 👨‍💻 About the Developer
+
+**Name**: Mohid Umer  
+**Email**: mohidumer112@gmail.com  
+
+---
+
+## 🤝 Contributing & Support
+
+For bug reports, feature suggestions, or questions about **FortiChat**:
+
+1. **Report Issues**: Include exact error messages and reproduction steps  
+2. **Suggest Features**: Describe enhancement ideas with context and use cases  
+3. **Ask Questions**: Reach out via email with specific technical questions  
+
+**Contact**: mohidumer112@gmail.com  
+
+---
+
+## 📝 Changelog
+
+### Version 1.0 (Current)
+- ✨ Initial release of FortiChat  
+- 🔒 Full end-to-end encryption for secure messaging  
+- ✅ Multi-client support with authentication  
+- 📁 File transfer support  
+- 🎨 Color-coded console interface for easy readability  
+- 💾 Local message history storage  
+- 📚 Documentation included for all core features  
+
+---
+
+## 📞 Support & Contact
+
+For issues, questions, or feedback about **FortiChat**:
+
+**Email**: mohidumer112@gmail.com  
+**Status**: Active Development  
+**Last Updated**: December 16, 2025  
+
+---
+
+**Thank you for using FortiChat!** 🎉
+
