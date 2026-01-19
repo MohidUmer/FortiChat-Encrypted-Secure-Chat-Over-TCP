@@ -244,7 +244,7 @@ exit
 
 ## 14. Author & Contact
 
-**Name**: Mohid Umer
+**Name**: Mohid Umer  
 **Email**: [mohidumer112@gmail.com](mailto:mohidumer112@gmail.com)
 
 ---
