@@ -255,3 +255,7 @@ exit
 * See repository license file for details
 
 ---
+
+> FortiChat is a learning project for Linux based network programming and secure encryption solution. Feedback and collaboration are welcome.
+
+---
